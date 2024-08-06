@@ -3,7 +3,7 @@
 ## Startup
 
 - Install deps (`$ pnpm i`)
-- Copy `.example.env` to `.env` and set `NEXT_PUBLIC_INFURA_API_KEY` and `MONGODB_URI` 
+- Copy `.example.env` to `.env` and set `NEXT_PUBLIC_ALCHEMY_API_KEY` and `MONGODB_URI` 
 - Start nextjs (`$ pnpm dev`)
 - Visit http://localhost:3000/graphql/sync to sync all data
 - Visit http://localhost:3000/graphql to query the data set with graphql
